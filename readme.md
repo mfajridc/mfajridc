@@ -16,7 +16,6 @@ I am a third-year **Informatics Engineering** student at the **Sepuluh Nopember 
 <br>
 <br>
 <br>
-<br>
 
 ### Reach me on
 
