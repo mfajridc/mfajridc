@@ -1,4 +1,4 @@
-### Hello Everyone! 👋 I'm Farid
+### Hello Everyone! 👋 I'm Faji
 
 I am a third-year **Informatics Engineering** student at the **Sepuluh Nopember Institute of Technology**. Well-versed in building and deploying web applications projects using a PHP framework such as **Laravel** and also i interested about web dev especially about **FRONT END**. I also excited about **UI/UX**.
 
